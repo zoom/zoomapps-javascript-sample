@@ -4,7 +4,7 @@ App has reference implementation for:
 
 * Authentication flows: marketplace authentication, Zoom client deep linking
 * REST API calls and retrieving user information
-* Zoom Apps SDK Context methods
+* Zoom Apps SDK app Context methods
 
 ---
 
