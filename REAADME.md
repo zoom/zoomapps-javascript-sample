@@ -1,4 +1,6 @@
-This repo is an HTML / CSS / JavaScript website that uses the Zoom Apps SDK to integrations of third party apps into the Zoom client.
+# Zoom Apps SDK workplace experience sample
+
+This sample app demonstrates how to build in-product experiences within Zoom Workplace using the Zoom Apps SDK. It provides a reference implementation for integrating third-party services directly into the Zoom client—helping users stay in the flow of work without switching contexts.
 
 App has reference implementation for:
 
